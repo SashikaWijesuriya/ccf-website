@@ -229,7 +229,7 @@ a { color: inherit; }
 .stat__label { font-size: .82rem; color: var(--text-muted); }
 
 /* ---------- Event cards ---------- */
-.cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; margin-top: 2.5rem; }
+.cards { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5rem; margin-top: 2.5rem; }
 .card {
   background: var(--ink-2);
   border: 1px solid var(--line-dark);
