@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Colombo Chess Festival//CCF 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ccf-2026@colombochessfestival
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261217
+SUMMARY:Colombo Chess Festival 2026
+LOCATION:All Ceylon Buddhist Congress & Otter Sports Club\, Colombo\, Sri Lanka
+DESCRIPTION:FIDE-rated Classical\, Rapid and Blitz Open tournaments.\nAll Ceylon Buddhist Congress: https://maps.app.goo.gl/smYsWEoiC2Lag8an6\nOtter Sports Club: https://maps.app.goo.gl/Uaa4aLqGdsPGAv3A8
+END:VEVENT
+END:VCALENDAR
